@@ -1,0 +1,33 @@
+For DOCU additions
+================
+
+## TAGS
+
+The following is a guideline to tagging the entry:
+
+ - To be tagged in square brackets:
+
+    * `<Quality>` - Will be explained below. The ones from GENERAL do not apply here.
+    * `<Size>` - The same as mentioned in GENERAL addition rules.
+    * `<link>` - Preferably IMDb link, can add a wikipedia and/or official website link too.
+    * `<language>` - The same as mentioned in GENERAL addition rules.
+    * `<Title>` - The title of the documetary such as "Chasing Ice".
+    * `<Genre>` - At least one genere.
+
+ - To be tagged in round brackets:
+
+    * `<Year>` - The year of release of the movie in YYYY format.
+
+## FORMAT
+
+The formats in this category is a hybrid of both TV and movie category. You can use any of them for adding in here. Keep in mind that you are not supposed to add them in movie or video category.
+
+## NOTES
+
+01. For a new documentary series or new documentary, you MUST give a link with the first episode.
+02. Give space after each parameter or info.
+03. IMDb/wikipedia links are mandatory. Do NOT use url shortners.
+04. Name your file/directory with same name as movie, such as: "The Avengers (2012).m2ts"
+05. ALWAYS use parenthesis for year.
+06. Use hyphen (`-`) to separate `<Name>`, <`Ep Num Season>` and `<Title>`; like: *Ancient Aliens - S03E08 - Aliens and the Lost Worlds*
+

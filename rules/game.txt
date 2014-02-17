@@ -1,0 +1,41 @@
+For Game additions
+================
+
+## TAGS
+
+The following is a guideline to tagging the entry:
+
+ - To be tagged in square brackets:
+
+    * `<Size>` - The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
+    * `<Platform>` - One of PC, PS2, {S3, XBOX, PSP etc. This specifies the base platform for games.
+    * `<OS>` - Applicable(and MANDATORY) only to "[PC]". Can be "[WIN]", "[Linux]" etc.
+    * `<Filetype>` - Basic filetype for installation. Can be "ISO", "RAR", "ZIP", "EXE". Append [Folder] if it's shared with one of these filetypes
+    * `<Genre>` - Gaming genres. Can be amongst RPG, MMORPG, FPS, Racing, Arcade etc. Tag each genre separately.
+    * `<GroupName>` - The name of ggroup releasing the game. Most likely like "[SKIDROW]" etc.
+    * `<Title>` - Game title.
+    * `<link>` - Link to official website of the game(if any), otherwise, a wikipedia/IGN reviews link shortened.
+
+ - To be tagged in round brackets:
+
+    * `<Year>` - The year of release of game in YYYY format.
+
+## FORMAT
+
+The entry format for games is like this:
+
+>     [<Platform/OS>] [<Filetype>] [<Genre>] [<GroupName>] <Title> (<Year>) [<link>] [<size>] <magnet>
+
+For example:
+
+    [PS2] [ISO] [Action] [Third Person] [PAL-E] Red Dead Revolver (2004) [ http://goo.gl/01NN1 ] [2.44 GiB]
+    [PC] [ISO] [Telltale Games] [Adventure] [FTS] The Wolf Among Us - Episode 2: Smoke And Mirrors (2014) [ http://goo.gl/NJu4mK ] [2.20 GiB]
+    [Reshare] [PC] [ISO] [FPS] [Repack] [z10yded + SmartSteamEmu] Payday 2 v1.4.2 (2013)-With Autoupdater + LAN Co-Op Fix [ http://goo.gl/loEAqw ] [ http://goo.gl/LZN2Mq ] [4.11 GiB]
+
+## NOTES
+
+01. If you've personally checked the game, add "(CHECKED)" tag before `<link>`.
+02. If the game has no crack released for it, add `[NO crack]" tag before the `<Title>`.
+03. When adding a crack, just add magnet to previous entry and ask the original person to edit it. If the release groups are not the same, only then add your crack as separate entry.
+04. For the updates of a game, either tag using "[UPDATE]" or use like this: "The Elder Scrolls V: Skyrim Reloaded - Update 9".
+

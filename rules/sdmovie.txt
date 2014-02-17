@@ -1,0 +1,63 @@
+For SD Movie additions
+================
+
+## TAGS
+
+The following is a guideline to tagging the entry:
+
+ - To be tagged in square brackets:
+
+    * `<Quality>` - Will be explained below. The ones from GENERAL do not apply here.
+    * `<Size>` - The same as mentioned in GENERAL addition rules.
+    * `<link>` - Preferably IMDb link, can add a wikipedia and/or official website link too.
+    * `<language>` - The same as mentioned in GENERAL addition rules.
+    * `<Name>` - The name of the movie such as "The Shawshank Redemption".
+    * `<Genre>` - At least one genere.
+    * `<Audio>` - Same as language. use a "-" to separate dual-audio; like `[HIN-ENG]`
+
+ - To be tagged in round brackets:
+
+    * `<Year>` - The year of release of the movie in YYYY format.
+
+## QUALITY
+
+All information about these release types can be found [here]. The following is just a listing of all qualities. At most 2 additions in SDMovie category is allowed for the same movie. They are classified based on their release rips.
+
+### Good Quality Rips
+
+ * [DVDRip] - They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
+ * [R5] - Release 5 rips.
+ * [DDC] - Digital Distribution Copy(Similar to R5; but a little lower quality)
+ * [PPVRip] - Pay-per-view rip.
+
+### OK Quality Rips
+
+ * [CAMRip] - Camera recorded rips.
+ * [VODRip] - Video-on-Demand
+ * [TSRip] - TeleSync version movies. TeleCine included with this quality too.
+ * [WorkPrint] - Very rare. Only a few movies released with this rip.
+
+## FORMAT
+
+The following format is always followed for all entries in movie categories.
+
+>     [<Quality>] [<Language>] [<Audio>] [<Genre>] <Name> (<Year>) [<link>] [<size>] <magnet>
+
+For example:
+
+    [DVDRip + 720p] [HIN] [Drama] [Romance] Yaariyan (2014) [ http://imdb.com/title/tt3382148 ] [1.45 GiB + 2.30 GiB]
+    [DVDRip] [GLE] [Horror] The Moth Diaries (2011) [ https://en.wikipedia.org/wiki/The_Moth_Diaries_(film) ] [ http://www.imdb.com/title/tt1407065/ ] [700 MiB]
+    [HDRip] [Comedy] [Drama] [Romance] Brightest Star (2013) [ http://www.imdb.com/title/tt1877688/ ] [765 MiB]
+
+`<Language>` and `<Audio>` tags can be skipped for **ENG** language and audio. All other cases need to be mentioned. English movies with dual-audio MUST have the `<Audio>` tag.
+
+## NOTES
+
+01. AT MOST 2 entries for the same movie are allowed in this category. One is for *Good quality rips* and another for *OK quality rips*. Ask the actual moderator to edit the entry for you, if you're adding another print for the same movie.
+02. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Action] [Thriller]" and NOT "[Action/Thriller]".
+03. IMDb links are mandatory. Do NOT use url shortners for IMDb links. If no IMDb link can be found, search for wikipedia page, failing which you can add it without link.
+04. Name your file/directory with same name as movie, such as: "The Moth Diaries (2012).avi"
+05. ALWAYS use parenthesis for year.
+06. Dont add CAM or SCAM version, instead add only DVDScr (2CD) and DVDScr 720p (if available) to this category. Prefer adding a 2 CD version instead of 1 CD version for DVDScr or WEBRip or DVDRip in this category.
+
+  [here]: http://en.wikipedia.org/wiki/Pirated_movie_release_types
