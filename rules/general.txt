@@ -1,9 +1,7 @@
 For ALL additions
 ================
 
-
-TO BECOME A MODERATOR
----------------------
+## TO BECOME A MODERATOR
 
 To become a moderator on the hub, you need to have added at least 10 entries to the entries database over the last 3 months (A.K.A. current semester). You can ask other fellow moderators(to get list of moderatos, use "+help" with [BOT]Offliner). After becoming a moderator, you are required to follow these basic addition formats.
 
@@ -63,28 +61,27 @@ The following quality tags are acceptable:
 
  - For Videos
 
-    - [HDTV] - HDTV Rip in XviD ~352 or ~404 pixels (height). Sometimes, [SDTV] and [PDTV] are also allowed.
-    - [DVDRip] - They are official DVDRip sized ~480p (height)
-    - [720p] - 720 pixels height
-    - [1080p] - 1080 pixels height
-    - [BluRay] [720p] - Original BluRay for the entry is released
-    - [m720p] - Mini MKV releases.
-    - [m1080p] - Mini MKV Widescreen releases.
+    * [HDTV] &rarr; HDTV Rip in XviD ~352 or ~404 pixels (height). Sometimes, [SDTV] and [PDTV] are also allowed.
+    * [DVDRip] &rarr; They are official DVDRip sized ~480p (height)
+    * [720p] &rarr; 720 pixels height
+    * [1080p] &rarr; 1080 pixels height
+    * [BluRay] [720p] &rarr; Original BluRay for the entry is released
+    * [m720p] &rarr; Mini MKV releases.
+    * [m1080p] &rarr; Mini MKV Widescreen releases.
 
     There are other tags in use too, like [WEB-DL] etc. If something is [WEB-DL] then generally it is official iTunes released stuff, and hence, can be tagged "[BRRip] [720p]" or "[BluRay] [720p]".
 
  - For Audio
 
-    - [FLAC] - Lossless Audio Codecs. (No need to mention bit-rates with this tag)
-    - [MP3] - Usual for MP3 files. You **SHOULD** include bit-rates with them
-    - [XXX kBps] - This is for tagging XXX bitrates in Kilobytes/s. XXX should be a whole number and must be followed by a blank space.
+    * [FLAC] &rarr; Lossless Audio Codecs. (No need to mention bit-rates with this tag)
+    * [MP3] &rarr; Usual for MP3 files. You **SHOULD** include bit-rates with them
+    * [XXX kBps] &rarr; This is for tagging XXX bitrates in Kilobytes/s. XXX should be a whole number and must be followed by a blank space.
 
  - For Games and Apps
 
-    - [PC] - This implies a PC platform game/app. It can be skipped by default.
-    - [WIN] - This means a Windows compatible game/app. Can be skipped; but atleast one of [PC] or [WIN] must be mentioned.
-    - [ISO] - File container/storage type. Explained with details in related categories.
-
+    * [PC] &rarr; This implies a PC platform game/app. It can be skipped by default.
+    * [WIN] &rarr; This means a Windows compatible game/app. Can be skipped; but atleast one of [PC] or [WIN] must be mentioned.
+    * [ISO] &rarr; File container/storage type. Explained with details in related categories.
 
 ## LINKS
 

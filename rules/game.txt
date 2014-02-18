@@ -7,18 +7,18 @@ The following is a guideline to tagging the entry:
 
  - To be tagged in square brackets:
 
-    * `<Size>` - The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
-    * `<Platform>` - One of PC, PS2, {S3, XBOX, PSP etc. This specifies the base platform for games.
-    * `<OS>` - Applicable(and MANDATORY) only to "[PC]". Can be "[WIN]", "[Linux]" etc.
-    * `<Filetype>` - Basic filetype for installation. Can be "ISO", "RAR", "ZIP", "EXE". Append [Folder] if it's shared with one of these filetypes
-    * `<Genre>` - Gaming genres. Can be amongst RPG, MMORPG, FPS, Racing, Arcade etc. Tag each genre separately.
-    * `<GroupName>` - The name of ggroup releasing the game. Most likely like "[SKIDROW]" etc.
-    * `<Title>` - Game title.
-    * `<link>` - Link to official website of the game(if any), otherwise, a wikipedia/IGN reviews link shortened.
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
+    * `<Platform>` &rArr; One of PC, PS2, {S3, XBOX, PSP etc. This specifies the base platform for games.
+    * `<OS>` &rArr; Applicable(and MANDATORY) only to "[PC]". Can be "[WIN]", "[Linux]" etc.
+    * `<Filetype>` &rArr; Basic filetype for installation. Can be "ISO", "RAR", "ZIP", "EXE". Append [Folder] if it's shared with one of these filetypes
+    * `<Genre>` &rArr; Gaming genres. Can be amongst RPG, MMORPG, FPS, Racing, Arcade etc. Tag each genre separately.
+    * `<GroupName>` &rArr; The name of ggroup releasing the game. Most likely like "[SKIDROW]" etc.
+    * `<Title>` &rArr; Game title.
+    * `<link>` &rArr; Link to official website of the game(if any), otherwise, a wikipedia/IGN reviews link shortened.
 
  - To be tagged in round brackets:
 
-    * `<Year>` - The year of release of game in YYYY format.
+    * `<Year>` &rArr; The year of release of game in YYYY format.
 
 ## FORMAT
 

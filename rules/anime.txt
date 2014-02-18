@@ -7,15 +7,15 @@ The following is a guideline to tagging the entry:
 
  - To be tagged in square brackets:
 
-    * `<Quality>` - Mostly [720p] or [1080p]. Other video-qualities may be there too. See notes #09.
-    * `<Size>` - The same as mentioned in GENERAL addition rules.
-    * `<Name>` - Name of anime
-    * `<EpisodeNumber>` - Episode number, 2 digits.
-    * `<Title>` - Title given for episode. Generally unavailable. NOT MANDATORY.
-    * `<Audio>` - Applicable only for Non-JP audio or Dual-Audio. Details in notes #01.
-    * `<link>` - Put shortened links from [http://animenewsnetwork.com/][ann]. Check notes #04.
-    * `<Info/Source>` - Check notes #02 and #09.
-    * `<SubGroups>` - Groups which has released the concerned episode(s)
+    * `<Quality>` &rArr; Mostly [720p] or [1080p]. Other video-qualities may be there too. See notes #09.
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<Name>` &rArr; Name of anime
+    * `<EpisodeNumber>` &rArr; Episode number, 2 digits.
+    * `<Title>` &rArr; Title given for episode. Generally unavailable. NOT MANDATORY.
+    * `<Audio>` &rArr; Applicable only for Non-JP audio or Dual-Audio. Details in notes #01.
+    * `<link>` &rArr; Put shortened links from [http://animenewsnetwork.com/][ann]. Check notes #04.
+    * `<Info/Source>` &rArr; Check notes #02 and #09.
+    * `<SubGroups>` &rArr; Groups which has released the concerned episode(s)
 
 ## FORMAT
 
@@ -54,9 +54,9 @@ For example:
 
 ## TRIVIA
 
- * OVA - Means Original Video Anime.
- * OAV - Same as OVA; but is used by Western World.
- * OAD - It means Original Anime DVD/BD i.e. the video was a DVD/BD only release.
- * ONA - It means Original Net Anime. Similar to Webisodes.
+ * OVA &rarr; Means Original Video Anime.
+ * OAV &rarr; Same as OVA; but is used by Western World.
+ * OAD &rarr; It means Original Anime DVD/BD i.e. the video was a DVD/BD only release.
+ * ONA &rarr; It means Original Net Anime. Similar to Webisodes.
 
   [ann]: http://animenewsnetwork.com/

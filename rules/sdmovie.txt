@@ -7,17 +7,17 @@ The following is a guideline to tagging the entry:
 
  - To be tagged in square brackets:
 
-    * `<Quality>` - Will be explained below. The ones from GENERAL do not apply here.
-    * `<Size>` - The same as mentioned in GENERAL addition rules.
-    * `<link>` - Preferably IMDb link, can add a wikipedia and/or official website link too.
-    * `<language>` - The same as mentioned in GENERAL addition rules.
-    * `<Name>` - The name of the movie such as "The Shawshank Redemption".
-    * `<Genre>` - At least one genere.
-    * `<Audio>` - Same as language. use a "-" to separate dual-audio; like `[HIN-ENG]`
+    * `<Quality>` &rArr; Will be explained below. The ones from GENERAL do not apply here.
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<link>` &rArr; Preferably IMDb link, can add a wikipedia and/or official website link too.
+    * `<language>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+    * `<Genre>` &rArr; At least one genere.
+    * `<Audio>` &rArr; Same as language. use a "-" to separate dual-audio; like `[HIN-ENG]`
 
  - To be tagged in round brackets:
 
-    * `<Year>` - The year of release of the movie in YYYY format.
+    * `<Year>` &rArr; The year of release of the movie in YYYY format.
 
 ## QUALITY
 
@@ -25,17 +25,17 @@ All information about these release types can be found [here]. The following is 
 
 ### Good Quality Rips
 
- * [DVDRip] - They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
- * [R5] - Release 5 rips.
- * [DDC] - Digital Distribution Copy(Similar to R5; but a little lower quality)
- * [PPVRip] - Pay-per-view rip.
+ * [DVDRip] &rarr; They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
+ * [R5] &rarr; Release 5 rips.
+ * [DDC] &rarr; Digital Distribution Copy(Similar to R5; but a little lower quality)
+ * [PPVRip] &rarr; Pay-per-view rip.
 
 ### OK Quality Rips
 
- * [CAMRip] - Camera recorded rips.
- * [VODRip] - Video-on-Demand
- * [TSRip] - TeleSync version movies. TeleCine included with this quality too.
- * [WorkPrint] - Very rare. Only a few movies released with this rip.
+ * [CAMRip] &rarr; Camera recorded rips.
+ * [VODRip] &rarr; Video-on-Demand
+ * [TSRip] &rarr; TeleSync version movies. TeleCine included with this quality too.
+ * [WorkPrint] &rarr; Very rare. Only a few movies released with this rip.
 
 ## FORMAT
 

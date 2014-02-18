@@ -7,16 +7,16 @@ The following is a guideline to tagging the entry:
 
  - To be tagged in square brackets:
 
-    * `<Quality>` - Will be explained below. The ones from GENERAL do not apply here.
-    * `<Size>` - The same as mentioned in GENERAL addition rules.
-    * `<link>` - Preferably IMDb link, can add a wikipedia and/or official website link too.
-    * `<Name>` - The name of the movie such as "1-Nenokkadine".
-    * `<Audio>` - Same as language. For dual-audio releases, just use `[Dual-Audio]` tag.
-    * `<Info>` - Either of `[Movie]` or `[Music]` depending on the content. Read notes for details.
+    * `<Quality>` &rArr; Will be explained below. The ones from GENERAL do not apply here.
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<link>` &rArr; Preferably IMDb link, can add a wikipedia and/or official website link too.
+    * `<Name>` &rArr; The name of the movie such as "1-Nenokkadine".
+    * `<Audio>` &rArr; Same as language. For dual-audio releases, just use `[Dual-Audio]` tag.
+    * `<Info>` &rArr; Either of `[Movie]` or `[Music]` depending on the content. Read notes for details.
 
  - To be tagged in round brackets:
 
-    * `<Year>` - The year of release of the movie in YYYY format.
+    * `<Year>` &rArr; The year of release of the movie in YYYY format.
 
 ## FORMAT
 

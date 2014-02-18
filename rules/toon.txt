@@ -7,16 +7,16 @@ The following is a guideline to tagging the entry:
 
  - To be tagged in square brackets:
 
-    - `<Quality>`       -&gt; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
-    - `<Size>`          -&gt; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
-    - `<link>`          -&gt; Preferably IMDb link, can add a shortened wikipedia link too.
-    - `<Name>`          -&gt; The name of the show such as "Doctor Who".
-    - `<Title>`         -&gt; The title of particular episode(can be replaced with "Episode &lt;#&gt;" if not mentioned anywhere).
-    - `<Ep Num Season>` -&gt; The season and episode number. This is of the type "SXXEYY"; XX and YY are 2/3 digit numbers with padded 0.
+    * `<Quality>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
+    * `<link>` &rArr; Preferably IMDb link, can add a shortened wikipedia link too.
+    * `<Name>` &rArr; The name of the show such as "Doctor Who".
+    * `<Title>` &rArr; The title of particular episode(can be replaced with "Episode &lt;#&gt;" if not mentioned anywhere).
+    * `<Ep Num Season>` &rArr; The season and episode number. This is of the type "SXXEYY"; XX and YY are 2/3 digit numbers with padded 0.
 
  - To be tagged in round brackets:
 
-    - `<Year>`          -&gt; The year of release of show in YYYY format.
+    * `<Year>`          *&gt; The year of release of show in YYYY format.
 
 ## FORMAT
 
