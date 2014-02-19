@@ -1,0 +1,42 @@
+For Music additions
+================
+
+## TAGS
+
+The following is a guideline to tagging the entry:
+
+ - To be tagged in square brackets:
+
+    * `<Format>` &rArr; The file format. Lossy formats like MP3 or lossless like FLAC
+    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<link>` &rArr; Either a Wikipedia link, or a link to the official site of the band/artist. Having both links is fine too.
+    * `<Artist>` &rArr; The artist/band/singer etc.
+    * `<Title>` &rArr; Either *Discography* or *Studio Discography* for a discography. Else title of the album/single. Check Note #06
+    * `<Genre>` &rArr; At least one genre.
+    * `<Bitrate>` &rArr; Necessary for lossy formats like `MP3`. Not required for lossless format like `FLAC`. Check Note #05
+    * `<Albums/Tracks count>` &rArr; Generally number of albums in a discography or tracks in the album. **NOT MANDATORY**.
+
+ - To be tagged in round brackets:
+
+    * `<Year>` &rArr; The year of release of the album/single in YYYY format. In case of discography, add a year range (YYYY-YY) or (YYYY-YYYY).
+
+## FORMAT
+
+The following format is always followed for all entries in music categories.
+
+>     [<Format>] [<Bitrate>] [<Genre>] [<Albums/Tracks count>] <Artist> - <Title> (<Year>) [<link>] [<size>] <magnet>
+
+For example:
+
+    [MP3] [320 Kbps] [Industrial Rock] [Dark Ambient] [10 Albums] Nine Inch Nails - Studio Discography (1989-2013) [ http://en.wikipedia.org/wiki/Nine_Inch_Nails ] [1.47 GiB] 
+    [MP3] [320 Kbps] [Progressive] [Power] [Symphonic Metal] Sonata Arctica - Discography (1999-2013) [ http://goo.gl/Hezxjp ] [4.55 GiB]
+    [FLAC] [Progressive Metal] Dream Theater - Dream Theater (2013) [ http://goo.gl/DjSmL ] [1.39 GiB]
+
+## NOTES
+
+01. Add only audio files. All concert videos go to the **video** category.
+02. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Rock] [Pop]" and NOT "[Rock/Pop]".
+03. Only one magnet per entry allowed. Either the most popular song or the title song, if not then the first song of the album/discography. Choice is up to the moderator.
+04. Links are MANDATORY. URL shorteners can be provided. If no Wikipedia or official site exists of the album, then the Wikipedia link or official site for the artist or band can be used.
+05. For lossy formats, Bitrate should be specified in *Kb/s*. If bitrate varies significantly, VBR tag can be used. It must be a whole number, and preferrably standard bitrates like 128 Kbps, 320 Kbps etc. Not needed for lossless content.
+06. If it is a studio discography, name it as such or for a collection of live concerts, you can name it accordingly.
