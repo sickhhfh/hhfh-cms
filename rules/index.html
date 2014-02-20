@@ -33,7 +33,7 @@
 				getData( h, $result );
 			}
 			$('ul > li').on( 'click', function( e ) {
-				var type = this.id;
+				var type = $(this).data( 'id' );
 				if( curr !== type ) {
 					getData( type, $result );
 					curr = type;
@@ -48,17 +48,17 @@
 	<div id="container">
 		<div id="list">
 			<ul id="categories" compact dir="ltr">
-				<li id="general">General rules</li>
-				<li id="movie">Movie</li>
-				<li id="tv">TV</li>
-				<li id="telugu">Telugu</li>
-				<li id="anime">Anime</li>
-				<li id="toon">Toon</li>
-				<li id="sports">Sports</li>
-				<li id="music">Music</li>
-				<li id="game">Games</li>
-				<li id="docu">Documentaries</li>
-				<li id="sdmovie">SD Movie</li>
+				<li data-id="general">General rules</li>
+				<li data-id="movie">Movie</li>
+				<li data-id="tv">TV</li>
+				<li data-id="telugu">Telugu</li>
+				<li data-id="anime">Anime</li>
+				<li data-id="toon">Toon</li>
+				<li data-id="sports">Sports</li>
+				<li data-id="music">Music</li>
+				<li data-id="game">Games</li>
+				<li data-id="docu">Documentaries</li>
+				<li data-id="sdmovie">SD Movie</li>
 			</ul>
 		</div>
 		<div id="content">
