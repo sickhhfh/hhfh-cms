@@ -15,9 +15,18 @@
 				url: category + ".txt",
 				dataType: "text",
 				type: 'GET',
+				error: function( x, s, d ) {
+					console.log( x );
+				},
 				success: function( d, s, x ) {
 					var data = conv.makeHtml( d );
 					$target.html( data );
+				},
+				complete: function() {
+					console.log( $( '#' + category ) );
+					$('html, body').animate( {
+						scrollTop: $( '#' + category ).offset().top
+					}, 'slow' );
 				}
 			});
 		}
