@@ -26,7 +26,7 @@ All information about these release types can be found [here]. The following is 
 ### Good Quality Rips
 
  * [DVDRip] &rarr; They are official DVDRip sized ~480p(height). This is the best quality allowed for SDMovies
- * [R5] &rarr; Release 5 rips.
+ * [R5] &rarr; Region 5 rips.
  * [DDC] &rarr; Digital Distribution Copy(Similar to R5; but a little lower quality)
  * [PPVRip] &rarr; Pay-per-view rip.
 
