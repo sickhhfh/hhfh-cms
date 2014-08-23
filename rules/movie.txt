@@ -5,41 +5,57 @@
 
 The following is a guideline to tagging the entry:
 
+    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+
  - To be tagged in square brackets:
 
     * `<Quality>` &rArr; Will be explained below. The ones from GENERAL do not apply here.
-    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
     * `<link>` &rArr; Preferably IMDb link, can add a wikipedia and/or official website link too.
-    * `<language>` &rArr; The same as mentioned in GENERAL addition rules.
-    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+    * `<language>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
     * `<Genre>` &rArr; At least one genere.
-    * `<Audio>` &rArr; Same as language. use a "-" to separate dual-audio; like `[HIN-ENG]`
+    * `<Audio>` &rArr; Same as language. Use a `-` to separate dual-audio; like `[HIN-ENG]`
 
  - To be tagged in round brackets:
 
     * `<Year>` &rArr; The year of release of the movie in YYYY format.
 
+
 ## FORMAT
 
-The following format is always followed for all entries in movie categories. Movies with *DVDRip* quality are to be added under sdmovie category. The allowed exceptions is for non-English movies or movies released before 1960s.
+The following format is always followed for all entries in movie categories. Movies with *DVDRip* quality are to
+be added under sdmovie category. The allowed exceptions is for non-English movies or movies released before 1960s.
 
 >     [<Quality>] [<Language>] [<Audio>] [<Genre>] <Name> (<Year>) [<link>] [<size>] <magnet>
 
-For example:
+### Examples
 
     [BluRay m720p] [AUS] [Action] [Crime] [Drama] Mystery Road (2013) [ http://www.imdb.com/title/tt2236054/ ] [797 MiB]
     [BluRay 720p] [Drama] [Fantasy] Crimson Winter (2013) [ http://www.imdb.com/title/tt2014198/ ] [5.00 GiB]
     [BluRay m720p] [FRE] [Drama] [Romance] Blue Is the Warmest Color (2013) [ http://www.imdb.com/title/tt2278871/ ] [1.22 GiB]
 
-`<Language>` and `<Audio>` tags can be skipped for **ENG** language and audio. All other cases need to be mentioned. English movies with dual-audio MUST have the `<Audio>` tag.
+`<Language>` and `<Audio>` tags can be skipped for **ENG** language and audio. All other cases need to be
+mentioned. English movies with dual-audio MUST have the `<Audio>` tag.
+
 
 ## NOTES
 
-01. AT MOST 2 entries for the same movie are allowed in this category. One is for HDRips (720p/1080p and above) and another for mini-MKV (m720p/m1080p etc.). All other magnets can be linked to same ID(As explained in general rules) and the original entry can be updated. Ask the actual moderator to edit the entry for you.
-02. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Action] [Thriller]" and NOT "[Action/Thriller]".
-03. IMDb links are mandatory. Do NOT use url shortners for IMDb links. If no IMDb link can be found, search for wikipedia page, failing which you can add it without link.
-04. Name your file/directory with same name as movie, such as: "The Avengers (2012).m2ts"
-05. ALWAYS use parenthesis for year.
-05. Do NOT add m720ps of WEB-DL versions. The BluRays are released soon, add an m720p version of that instead.
-06. Do NOT add DVDRips if HD versions (WEB-DLs or Blurays) are already added. Adding DVDRips for non-english movies to this category is acceptable if they were released 2 or more years ago.
-07. For Bollywood releases, add BluRay m720p to the same entry as BluRay 720p.
+01. AT MOST 3 entries for the same movie are allowed in this category (2 entries if it's a Bollywood/Animated Movie).
+    One is for BluRays (720p + 1080p), one for mini-MKV (m720p + m1080p etc.) and another for WEB-DL 720p only.
+    All other magnets can be linked to same ID(As explained in general rules) and the original entry can be updated.
+    Ask the actual moderator to edit the entry for you.
+02. For Bollywood releases, add BluRay m720p to the same entry as BluRay 720p.
+03. Give spaces after each parameter or info or tag. The genres should each be tagged separately like "[Action] [Thriller]"
+    and NOT "[Action/Thriller]".
+04. IMDb links are mandatory. Do NOT use url shortners for IMDb links. If no IMDb link can be found, search for wikipedia
+    page, failing which you can add it without link.
+05. Name your file/directory with same name as movie, such as: "The Avengers (2012).m2ts"
+06. ALWAYS use parenthesis for year.
+07. Do NOT add m720ps of WEB-DL versions. The BluRays are released soon, add an m720p version of that instead.
+08. Do NOT add DVDRips if HD versions (WEB-DLs or Blurays) are already added. Adding DVDRips for non-english movies
+    to this category is acceptable if they were released 2 or more years ago.
+09. For older movies prefer BluRay m720ps. Other versions may be accepted if m720p is not available.
+10. For movies other than _ENG_, _HIN_, _TEL_ add only DVDRips & BluRays with their ENG-Subs present in your share.
+
+
+  [1]: #general

@@ -5,20 +5,20 @@
 
 The following is a guideline to tagging the entry:
 
- - To be tagged in square brackets:
-
-    * `<Quality>` &rArr; The same as mentioned in GENERAL addition rules. May be skipped if not HD/720p or higher.
-    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
-    * `<Sport>` &rArr; Sport being shared, such as "[Football]" or "[WWE]" etc. Check notes.
     * `<Name>` &rArr; The name of the show such as "UCL" or "The F1 Show" etc.
     * `<Title>` &rArr; The title of particular entry like "Main Event" or "Benfica vs Barcelona". See notes.
+
+ - To be tagged in square brackets:
+
+    * `<Quality>` &rArr; The same as mentioned in [GENERAL addition][1] rules. May be skipped if not HD/720p or higher.
+    * `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules. Can have more than one in same entry.
+    * `<Sport>` &rArr; Sport being shared, such as "[Football]" or "[WWE]" etc. Check notes.
     * `<Info>` &rArr; The info tag will be described in notes.
 
  - To be tagged in round brackets:
 
-    * `<OAD>` &rArr; This is the air-date in DD.MM.YY format.
+    * `<OAD>` &rArr; This is the air-date in DD.MM.YY format. For example: (31.12.11) for Dec. 31, 2011
 
-For example: (31.12.11) for Dec. 31, 2011
 
 ## FORMAT
 
@@ -26,25 +26,36 @@ For example: (31.12.11) for Dec. 31, 2011
 
 >     [<Sport>] [<Quality>] [<Info>] <Name> (<OAD>) - <Title> [<size>] <magnet>
 
-For example:
+### Examples
 
     [Football] [FM] [2 Parts] UCL (23.11.11) - Arsenal vs Borussia Dortmund [900 MiB]
     [WWE] [720p] WWE (03.10.12) - Main Event [484 MiB]
 
+
 ## NOTES
 
-01. Use quality only for HIGH DEFINTION ADDs. Just ignore it for common additons. Those videos are pretty decent to watch.
+01. Use quality only for HIGH DEFINTION ADDs. Just ignore it for common additons. Those videos are pretty decent
+    to watch.
 02. Use MOTD for Match of the Day. Other allowed abbreviations have been listed below.
 03. Use "vs." for versus. NO other variants are allowed.
 04. Use full name  for clubs. Unless the entry size increases 180 characters.
-05. Make a new folder for every match. Place all the things like first half, second half in that folder. Give the magnets of both the halves in the ADD. Read "[BOT]Offliner" help for how to guide.
+05. Make a new folder for every match. Place all the things like first half, second half in that folder. Give the
+    magnets of both the halves in the ADD. Read "[BOT]Offliner" help for how to guide.
 06. Dont add highlights of anymatch. You may share them. You may add magnets to FM.
 07. Mention the Language (in the filename and in the ADD) if it is not English.
-08. Only ONE ADD per match is ALLOWED. It doesn't matter if it was HD or SD or even HL. Just add subsequent magnets. And ask original moderator to edit the entry for you. If they deny or are not respoinding for long time, then contact VIPs.
-09. Dont add matches from any league after a show is added which already contains its highlights. So, for example don't add Premier League Matches after the MOTD is added.
+08. Only ONE ADD per match is ALLOWED. It doesn't matter if it was HD or SD or even HL. Just add subsequent
+    magnets. And ask original moderator to edit the entry for you. If they deny or are not respoinding for long
+	time, then contact VIPs.
+09. Dont add matches from any league after a show is added which already contains its highlights. So, for
+    example don't add Premier League Matches after the MOTD is added.
 10. The several allowed abbreviations are listed below.
-11. AVOID SPOILERS AT ALL COSTS. You would not want anyone to spoil a movie for you. So, please, don't add spoilers in the addition entries. Absolutely no comments on the match to be included. Such as good climax, messi's hat trick, manchester city humiliated, barca on fire etc.
-12. For knockout matches just add the magnets of two halves of extra time and penalties and mention the number of parts. DO NOT mention "penalties included" etc. for the entry. Just name the additional parts, put them in the same folder and increment the number of parts in the entry.
+11. AVOID SPOILERS AT ALL COSTS. You would not want anyone to spoil a movie for you. So, please, don't add spoilers
+    in the addition entries. Absolutely no comments on the match to be included. Such as good climax, Messi's
+	hat trick, manchester city humiliated, barca on fire etc.
+12. For knockout matches just add the magnets of two halves of extra time and penalties and mention the number
+    of parts. DO NOT mention "penalties included" etc. for the entry. Just name the additional parts, put them in
+	the same folder and increment the number of parts in the entry.
+
 
 ## INFO
 
@@ -56,6 +67,7 @@ This is the information to be prepended under the `<Info>` tag. Add separate inf
  - Euro YYYY &rarr; UEFA Euro for year YYYY
  - [Country] &rarr; If name of the league is too big or some RANDOM MATCH. e.g. Use [Russia], [Argentina], etc.
 
+
 ## ABBREVIATIONS
 
  - UCL &rarr; Champions League
@@ -64,3 +76,6 @@ This is the information to be prepended under the `<Info>` tag. Add separate inf
  - WWE &rarr; World Wide Entertainment
  - IF &rarr; International Friendly
  - CLF &rarr; Club Frienldy
+
+
+  [1]: #general

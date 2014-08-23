@@ -5,17 +5,19 @@
 
 The following is a guideline to tagging the entry:
 
- - To be tagged in square brackets:
-
-    * `<Quality>` &rArr; Mostly [720p] or [1080p]. Other video-qualities may be there too. See notes #09.
-    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
     * `<Name>` &rArr; Name of anime
     * `<EpisodeNumber>` &rArr; Episode number, 2 digits.
     * `<Title>` &rArr; Title given for episode. Generally unavailable. NOT MANDATORY.
+
+ - To be tagged in square brackets:
+
+    * `<Quality>` &rArr; Mostly [720p] or [1080p]. Other video-qualities may be there too. See notes #09.
+    * `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
     * `<Audio>` &rArr; Applicable only for Non-JP audio or Dual-Audio. Details in notes #01.
     * `<link>` &rArr; Put shortened links from [http://animenewsnetwork.com/][ann]. Check notes #04.
     * `<Info/Source>` &rArr; Check notes #02 and #09.
     * `<SubGroups>` &rArr; Groups which has released the concerned episode(s)
+
 
 ## FORMAT
 
@@ -31,7 +33,7 @@ The following is a guideline to tagging the entry:
 
 >     [Movie] [<Source> <Quality>] [<Audio>] <Name> - <English Title> [<link>] [<size>] <magnet>
 
-For example:
+### Examples
 
     [720p] [HorribleSubs + Underwater] Kill la Kill - 17 [333 MiB + 362 MiB]
     [BDRip] [1080p] [Coalgirls] [24 Eps + OP + EDs] To Aru Majutsu no Index - S01 [ http://goo.gl/BJM53 ] [18.47 GiB]
@@ -40,16 +42,28 @@ For example:
 
 ## NOTES
 
-01. For non-JP audio or non-ENG subs, or others, use tags like: "[Hindi-Dub]", "[Eng-Dub]", "[Dual-Audio]" etc. You can use 3 character language codes too.
+01. For non-JP audio or non-ENG subs, or others, use tags like: "[Hindi-Dub]", "[Eng-Dub]", "[Dual-Audio]"
+    etc. You can use 3 character language codes too.
 02. The `<Info>` tag primarily means including one(or more) of OVA, OAD, ONA, Extra etc.
-03. A batch addition assumes that a complete season for a show, in a quality greater than that of a TVRip, is being added. This greater quality is usually BDRip; DVDRip for old shows. DO NOT add incomplete batches.
+03. A batch addition assumes that a complete season for a show, in a quality greater than that of a
+    TVRip, is being added. This greater quality is usually BDRip; DVDRip for old shows. DO NOT add incomplete
+	batches.
 04. `<link>` MUST be used for the first episode of a series and NOT for all episodes.
 05. 1072p ~ 1080p, 688p ~ 720p i.e. ROUND IT UP if the difference is less else use whatever is the quality.
-06. More than one `<SubGroup>` are allowed for same episode if; one of them was the first release and another is the recommended release group. The recommended release groups shall be decided by mods by collecting info from IRC/Forums, self reviews, proper discussions, feedback from other viewers etc.
-07. The ending episode of each season/series SHOULD BE marked by END.
-08. If the first release and recommended release are downloaded by different mods, the downloader of the recommended release will append magnet to the previous entry and editing the entry. The same applies to additions of different qualities of batch additions. In case of same qualities of different sizes/groups for batches, a single addition is made, and updated if required, but not appended.
-09. Unlike other groups, addition of best quality is preferred for anime. Hence, adding only 720p for daily series is ALLOWED. It can also consist of source; which is BDRip or DVDRip. No need to mention TV - it is accepted as default i.e. If no source mentioned means TVRips.
-10. As you can see above, the movie addition mentions Hi10p(10-bit encoding) in its quality. This is now unnecessary as almost all encoders have switched to 10-bit. Either way, while it is mostly irrelevant to mention whether encoding is 8 or 10-bit, it is of primary importance that 10-bit encoding is not decoded by GPUs.
+06. More than one `<SubGroup>` are allowed for same episode if; one of them was the first release and
+    another is the recommended release group. The recommended release groups shall be decided by mods
+	by collecting info from IRC/Forums, self reviews, proper discussions, feedback from other viewers etc.
+07. The ending episode of each season/series SHOULD BE marked by **`END`**.
+08. If the first release and recommended release are downloaded by different mods, the downloader of the
+    recommended release will append magnet to the previous entry and editing the entry. The same applies
+	to additions of different qualities of batch additions. In case of same qualities of different sizes/groups
+	for batches, a single addition is made, and updated if required, but not appended.
+09. Unlike other groups, addition of best quality is preferred for anime. Hence, adding only 720p for daily
+    series is ALLOWED. It can also consist of source; which is BDRip or DVDRip. No need to mention TV - it is
+	accepted as default i.e. If no source mentioned means TVRips.
+10. As you can see above, the movie addition mentions Hi10p(10-bit encoding) in its quality. This is now unnecessary
+    as almost all encoders have switched to 10-bit. Either way, while it is mostly irrelevant to mention whether
+	encoding is 8 or 10-bit, it is of primary importance that 10-bit encoding is not decoded by GPUs.
 
 
 ## TRIVIA

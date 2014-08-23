@@ -5,13 +5,14 @@
 
 The following is a guideline to tagging the entry:
 
+    * `<Name>` &rArr; The name of the show such as "Disney's Buzzlightyear of Star Command".
+    * `<Title>` &rArr; The title of particular episode(can be replaced with "Episode &lt;#&gt;" if not mentioned anywhere).
+
  - To be tagged in square brackets:
 
-    * `<Quality>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
-    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules. Can have more than one in same entry.
+    * `<Quality>` &rArr; The same as mentioned in [GENERAL addition][1] rules. Can have more than one in same entry.
+    * `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules. Can have more than one in same entry.
     * `<link>` &rArr; Preferably IMDb link, can add a shortened wikipedia link too.
-    * `<Name>` &rArr; The name of the show such as "Doctor Who".
-    * `<Title>` &rArr; The title of particular episode(can be replaced with "Episode &lt;#&gt;" if not mentioned anywhere).
     * `<Ep Num Season>` &rArr; The season and episode number. This is of the type "SXXEYY"; XX and YY are 2/3 digit numbers with padded 0.
 
  - To be tagged in round brackets:
@@ -27,3 +28,6 @@ This category follows the basic rules fetched from TV category. Hence, all those
 01. Give a SPACE after each tag in the format.
 02. For a new series, you MUST give a link with the first episode of every season.
 03. Use hyphen (`-`) to separate `<Name>`, `<Ep Num Season>` and `<Title>`; like: *Randy Cunningham: 9th Grade Ninja - S01E08 - Attack of The Killer Potatoes*
+
+
+  [1]: #general

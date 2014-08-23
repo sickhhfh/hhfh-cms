@@ -5,19 +5,21 @@
 
 The following is a guideline to tagging the entry:
 
+    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+
  - To be tagged in square brackets:
 
-    * `<Quality>` &rArr; Will be explained below. The ones from GENERAL do not apply here.
-    * `<Size>` &rArr; The same as mentioned in GENERAL addition rules.
+    * `<Quality>` &rArr; Will be explained below. The ones from [GENERAL][1] **do not** apply here.
+    * `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
     * `<link>` &rArr; Preferably IMDb link, can add a wikipedia and/or official website link too.
-    * `<language>` &rArr; The same as mentioned in GENERAL addition rules.
-    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+    * `<language>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
     * `<Genre>` &rArr; At least one genere.
     * `<Audio>` &rArr; Same as language. use a "-" to separate dual-audio; like `[HIN-ENG]`
 
  - To be tagged in round brackets:
 
     * `<Year>` &rArr; The year of release of the movie in YYYY format.
+
 
 ## QUALITY
 
@@ -37,19 +39,21 @@ All information about these release types can be found [here]. The following is 
  * [TSRip] &rarr; TeleSync version movies. TeleCine included with this quality too.
  * [WorkPrint] &rarr; Very rare. Only a few movies released with this rip.
 
+
 ## FORMAT
 
 The following format is always followed for all entries in movie categories.
 
 >     [<Quality>] [<Language>] [<Audio>] [<Genre>] <Name> (<Year>) [<link>] [<size>] <magnet>
 
-For example:
+### Examples
 
     [DVDRip + 720p] [HIN] [Drama] [Romance] Yaariyan (2014) [ http://imdb.com/title/tt3382148 ] [1.45 GiB + 2.30 GiB]
     [DVDRip] [GLE] [Horror] The Moth Diaries (2011) [ https://en.wikipedia.org/wiki/The_Moth_Diaries_(film) ] [ http://www.imdb.com/title/tt1407065/ ] [700 MiB]
     [HDRip] [Comedy] [Drama] [Romance] Brightest Star (2013) [ http://www.imdb.com/title/tt1877688/ ] [765 MiB]
 
 `<Language>` and `<Audio>` tags can be skipped for **ENG** language and audio. All other cases need to be mentioned. English movies with dual-audio MUST have the `<Audio>` tag.
+
 
 ## NOTES
 
@@ -60,4 +64,6 @@ For example:
 05. ALWAYS use parenthesis for year.
 06. Dont add CAM or SCAM version, instead add only DVDScr (2CD) and DVDScr 720p (if available) to this category. Prefer adding a 2 CD version instead of 1 CD version for DVDScr or WEBRip or DVDRip in this category.
 
-  [here]: http://en.wikipedia.org/wiki/Pirated_movie_release_types
+
+  [1]: #general
+  [here]: https://en.wikipedia.org/wiki/Pirated_movie_release_types
