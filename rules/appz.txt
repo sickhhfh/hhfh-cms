@@ -1,0 +1,59 @@
+<a id='appz'></a>For APPZ additions
+================
+
+## TAGS
+
+The following is a guideline to tagging the entry:
+
+	* `<Name>` &rArr; The name of the software as in official website.
+	* `<version>` &rArr; The version of the release being added. Also check notes.
+
+ - To be tagged in square brackets:
+
+	* `<OS>` &rArr; This should be the supporting operationg system. `[WIN]` for Windows, `[MAC]` for MAC OS and `[LINUX]`.
+	* `<FileType>` &rArr; This should be the type of the container file such as `[ZIP]`, `[ISO]`, `[EXE]` etc.
+	* `<Size>` &rArr; The same as mentioned in [GENERAL addition][1] rules.
+	* `<Registration>` &rArr; Type of registration/activation of software such as [Incl Crack] , [Incl Keygen] , [Incl Serial] etc. If it is pre-cracked, then [Cracked]
+	* `<Link>` &rArr; The link of official website of the app/software.
+	* `<ToolType>` &rArr; Type of the use of app. See *Tool Types* section below.
+
+ - To be tagged in round brackets:
+
+	* `<Year>` &rArr; The year of release of app/software in YYYY format; such as (2014) for 2014
+
+
+## FORMAT
+
+>     [<OS>] [<FileType>] [<Registration>] [<ToolType>] <Name> (<Year>) <Version> [<size>] <magnet>
+
+### Tool Types
+
+ * For apps used in system management or sytem add-on tools, use `[System Tool]` or `[Utility Tool]` whichever is appropriate
+ * For file editing, photo editing, conversion, burning, ripping etc., use `[Editing Tool]`
+ * For media creation or editing, use `[Video Tool]` or `[Audio Tool]` whichever is appropriate
+ * For educational apps and useful apps in engineering, use `[Engg Tool]`
+ * If the software doesn't suit any of these tool types, simply ignore this `<ToolType>` tag
+
+### Examples
+
+    [WIN] [ZIP] [System Tool] [Incl Patch] GoodSync v9.3.4.5 [ http://www.goodsync.com/ ] [16 MiB]
+    [WIN] [ZIP] [Incl Crack] [Utility Tool] DAEMON Tools Pro Advanced v5.5.0.0388 [ http://www.daemon-tools.cc/products/dtproAdv ] [18 MiB]
+    [WIN] [ZIP] [Incl Keygen] [Editing Tool] Any Video Converter Ultimate v5.6.4 [ http://www.any-video-converter.com/products/for_video_ultimate/ ] [33 MiB]
+    [WIN] [ZIP] [Incl Crack] [Video Tool] MAGIX Movie Edit Pro (2014) Premium v13.0.5.4 [ http://www.magix.com/int/movie-edit-pro/premium/ ] [423 MiB]
+    [WIN] [RAR] [Cracked] [Engg Tool] SketchUp Pro (2014) v14.0.4900 [ http://www.sketchup.com/products/stylebuilder ] [89 MiB]
+
+
+## NOTES
+
+01. Atleast one of `<version>` and `<Year>` tag should be present. Use both if available.
+02. Give a SPACE after each tag in the format.
+03. Freewares & Open source apps/softwares should not be added.
+04. Offical website link of the software should be used. Don't shorten this until and unless it is very long. If official
+    website link is not available, use any other links such as wiki which gives good description of the software.
+05. If the software is available only as large pack, add few important magnets of the app and add a tag
+    before `<ToolType>` as `[<Bundle/Package>]` in square brackets
+06. Extra description such as _Bonus_, _Retail_, _Multilanguage_, _ Deluxe Edition_ , _Final_ etc. should be added after `<Version>` tag.
+07. If two different magnets are used for x32 bit and for x64 bit, add `(x86 & x64)` in round brackets after version tag.
+
+
+  [1]: #general
