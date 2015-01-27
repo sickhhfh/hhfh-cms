@@ -5,7 +5,7 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Name>` &rArr; The name of the movie such as "1-Nenokkadine".
+ - `<Name>` &rArr; The name of the movie such as "1-Nenokkadine".
 
  - To be tagged in square brackets:
 

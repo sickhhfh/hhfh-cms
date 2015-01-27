@@ -5,7 +5,7 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Title>` &rArr; Game title.
+ - `<Title>` &rArr; Game title.
 
  - To be tagged in square brackets:
 

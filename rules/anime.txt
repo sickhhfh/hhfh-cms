@@ -5,9 +5,9 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Name>` &rArr; Name of anime
-    * `<EpisodeNumber>` &rArr; Episode number, 2 digits.
-    * `<Title>` &rArr; Title given for episode. Generally unavailable. NOT MANDATORY.
+ - `<Name>` &rArr; Name of anime
+ - `<EpisodeNumber>` &rArr; Episode number, 2 digits.
+ - `<Title>` &rArr; Title given for episode. Generally unavailable. NOT MANDATORY.
 
  - To be tagged in square brackets:
 

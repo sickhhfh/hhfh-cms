@@ -5,7 +5,7 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
+ - `<Name>` &rArr; The name of the movie such as "The Shawshank Redemption".
 
  - To be tagged in square brackets:
 

@@ -5,8 +5,8 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Name>` &rArr; The name of the show such as "UCL" or "The F1 Show" etc.
-    * `<Title>` &rArr; The title of particular entry like "Main Event" or "Benfica vs Barcelona". See notes.
+ - `<Name>` &rArr; The name of the show such as "UCL" or "The F1 Show" etc.
+ - `<Title>` &rArr; The title of particular entry like "Main Event" or "Benfica vs Barcelona". See notes.
 
  - To be tagged in square brackets:
 

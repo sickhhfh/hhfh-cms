@@ -5,8 +5,8 @@
 
 The following is a guideline to tagging the entry:
 
-    * `<Name>` &rArr; The name of the show such as "Doctor Who".
-    * `<Title>` &rArr; The title of particular episode (can be replaced with "Episode ##" if not mentioned anywhere).
+ - `<Name>` &rArr; The name of the show such as "Doctor Who".
+ - `<Title>` &rArr; The title of particular episode (can be replaced with "Episode ##" if not mentioned anywhere).
 
  - To be tagged in square brackets:
 

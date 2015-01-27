@@ -5,8 +5,8 @@
 
 The following is a guideline to tagging the entry:
 
-	* `<Name>` &rArr; The name of the software as in official website.
-	* `<version>` &rArr; The version of the release being added. Also check notes.
+ - `<Name>` &rArr; The name of the software as in official website.
+ - `<version>` &rArr; The version of the release being added. Also check notes.
 
  - To be tagged in square brackets:
 
