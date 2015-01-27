@@ -33,6 +33,7 @@ The following format is always followed for all entries in music categories.
     [MP3] [320 Kbps] [Industrial Rock] [Dark Ambient] [10 Albums] Nine Inch Nails - Studio Discography (1989-2013) [ http://en.wikipedia.org/wiki/Nine_Inch_Nails ] [1.47 GiB]
     [MP3] [320 Kbps] [Progressive] [Power] [Symphonic Metal] Sonata Arctica - Discography (1999-2013) [ http://goo.gl/Hezxjp ] [4.55 GiB]
     [FLAC] [Progressive Metal] Dream Theater - Dream Theater (2013) [ http://goo.gl/DjSmL ] [1.39 GiB]
+    [MP3] [320 Kbps] [Melodic Death] [Doom Metal] Mourning Lenore - Loosely Bounded Infinities (2010) [ http://www.metal-archives.com/albums/Mourning_Lenore/Loosely_Bounded_Infinities/277123 ] [146 MiB]
 
 
 ## NOTES
@@ -43,11 +44,14 @@ The following format is always followed for all entries in music categories.
 03. Only one magnet per entry allowed. Either the most popular song or the title song, if not then the first
     song of the album/discography. Choice is up to the moderator.
 04. Links are MANDATORY. URL shorteners can be provided. If no Wikipedia or official site exists of the album,
-    then the Wikipedia link or official site for the artist or band can be used.
+    then the Wikipedia link or official site for the artist or band can be used. For a _metal album or
+	discography_, [Metal-Archives][2] link for the artist or album should be used.
 05. For lossy formats, Bitrate should be specified in *Kb/s*. If bitrate varies significantly, VBR tag can be
     used. It must be a whole number, and preferrably standard bitrates like 128 Kbps, 320 Kbps etc. Not
-	needed for lossless content.
+	needed for lossless content. Average bitrate should not be less than 256 Kbps for MP3 and 192 Kbps for
+	M4A/AAC for a metal album or discography.
 06. If it is a studio discography, name it as such or for a collection of live concerts, you can name it accordingly.
 
 
   [1]: #general
+  [2]: http://www.metal-archives.com
